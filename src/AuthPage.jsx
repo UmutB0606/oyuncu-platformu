@@ -24,7 +24,7 @@ const T = {
   warning:    "#f0a030",
 };
 
-const API = "https://oyuncu-platformu-backend-production.up.railway.app/api/auth";
+const API = "https://oyuncu-platformu-backend-production-45e6.up.railway.app/api/auth";
 
 const NOISE = `url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='4'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")`;
 
